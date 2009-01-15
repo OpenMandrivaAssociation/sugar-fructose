@@ -13,6 +13,7 @@ Requires: sugar-browse-activity >= 102
 Requires: sugar-turtleart-activity >= 23
 Requires: sugar-imageviewer-activity >= 5
 Requires: sugar-terminal-activity >= 21
+Requires: sugar-etoys-activity >= 4.0.2201
 Requires: sugar-calculate-activity >= 26
 Requires: sugar-log-activity >= 16
 Requires: sugar-chat-activity >= 61
@@ -20,10 +21,6 @@ Requires: sugar-write-activity >= 60
 Requires: sugar-read-activity >= 62
 Requires: sugar-jukebox-activity >= 6
 Requires: sugar-pippy-activity >= 25
-
-%ifarch %ix86
-Requires: sugar-etoys-activity >= 4.0.2201
-%endif
 
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 
