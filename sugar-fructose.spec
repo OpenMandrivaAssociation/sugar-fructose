@@ -2,7 +2,7 @@
 #       See http://wiki.sugarlabs.org/go/Deployment_Team/jhconvert for details
 
 Name: sugar-fructose
-Version: 0.85.7
+Version: 0.86.0
 Release: %mkrel 1
 Summary: Core Sugar activities
 License: GPL/LGPL
@@ -12,15 +12,15 @@ Url: http://sugarlabs.org/
 Requires: sugar-calculate-activity >= 30
 Requires: sugar-chat-activity >= 66
 Requires: sugar-etoys-activity >= 105
-Requires: sugar-imageviewer-activity >= 12
+Requires: sugar-imageviewer-activity >= 13
 Requires: sugar-jukebox-activity >= 11
 Requires: sugar-log-activity >= 23
 Requires: sugar-pippy-activity >= 34
-Requires: sugar-read-activity >= 74
-Requires: sugar-toolkit >= 0.85.8
-Requires: sugar-terminal-activity >= 26
-Requires: sugar-turtleart-activity >= 67
-Requires: sugar-browse-activity >= 113
+Requires: sugar-read-activity >= 75
+Requires: sugar-toolkit >= 0.86.0
+Requires: sugar-terminal-activity >= 27
+Requires: sugar-turtleart-activity >= 69
+Requires: sugar-browse-activity >= 114
 Requires: sugar-write-activity >= 67
 
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
