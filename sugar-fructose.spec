@@ -35,3 +35,51 @@ and collaborative learning. It was introduced on the One Laptop Per Child
 %files
 %defattr(-,root,root,-)
 
+
+
+%changelog
+* Wed Dec 08 2010 Oden Eriksson <oeriksson@mandriva.com> 0.88.0-2mdv2011.0
++ Revision: 615033
+- the mass rebuild of 2010.1 packages
+
+* Sun Apr 04 2010 Aleksey Lim <alsroot@mandriva.org> 0.88.0-1mdv2010.1
++ Revision: 531174
+- Sucrose 0.88.0 release
+
+* Mon Oct 12 2009 Aleksey Lim <alsroot@mandriva.org> 0.86.2-1mdv2010.0
++ Revision: 456984
+- Push 0.86.2
+
+* Fri Sep 25 2009 Aleksey Lim <alsroot@mandriva.org> 0.86.0-1mdv2010.0
++ Revision: 449012
+- Update to 0.86.0
+
+* Sat Sep 19 2009 Aleksey Lim <alsroot@mandriva.org> 0.85.7-1mdv2010.0
++ Revision: 444542
+- Update to 0.85.7
+
+* Tue Aug 11 2009 Aleksey Lim <alsroot@mandriva.org> 0.85.2-2mdv2010.0
++ Revision: 415112
+- Sucrose 0.85.2
+
+* Mon Apr 06 2009 Aleksey Lim <alsroot@mandriva.org> 0.84.2-1mdv2009.1
++ Revision: 364294
+- Sucrose 0.84.2 release
+
+* Wed Mar 04 2009 Aleksey Lim <alsroot@mandriva.org> 0.84.0-1mdv2009.1
++ Revision: 348324
+- Sucrose 0.84.0 release
+
+* Mon Feb 23 2009 Aleksey Lim <alsroot@mandriva.org> 0.83.6-1mdv2009.1
++ Revision: 344258
+- Sucrose 0.83.6 release
+
+* Tue Jan 20 2009 Aleksey Lim <alsroot@mandriva.org> 0.83.4-1mdv2009.1
++ Revision: 332037
+- new Sucrose 0.83.4 release
+
+* Thu Jan 15 2009 Aleksey Lim <alsroot@mandriva.org> 0.83.3-1mdv2009.1
++ Revision: 329909
+- include etoys to non-ix86 arches
+- initial commit
+
