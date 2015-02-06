@@ -3,7 +3,7 @@
 
 Name: sugar-fructose
 Version: 0.88.0
-Release: 3
+Release: 4
 Summary: Core Sugar activities
 License: GPL/LGPL
 Group: Graphical desktop/Other
