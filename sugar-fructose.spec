@@ -2,7 +2,7 @@
 #       See http://wiki.sugarlabs.org/go/Deployment_Team/jhconvert for details
 
 Name: sugar-fructose
-Version: 0.108.1
+Version: 0.120
 Release: 1
 Summary: Core Sugar activities
 License: GPL/LGPL
