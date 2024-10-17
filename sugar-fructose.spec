@@ -7,7 +7,7 @@ Release: 1
 Summary: Core Sugar activities
 License: GPL/LGPL
 Group: Graphical desktop/Other
-Url: http://sugarlabs.org/
+Url: https://sugarlabs.org/
 
 Requires: sugar-calculate-activity >= 30
 Requires: sugar-chat-activity >= 66
